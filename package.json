@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/suhailkakar/Twilio-SMS-Verify-Node-JS#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "twilio": "^3.66.1"
   }
 }
