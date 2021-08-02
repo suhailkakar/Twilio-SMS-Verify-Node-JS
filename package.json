@@ -1,0 +1,23 @@
+{
+  "name": "Twilio-SMS-Verify-Node-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailkakar/Twilio-SMS-Verify-Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhailkakar/Twilio-SMS-Verify-Node-JS/issues"
+  },
+  "homepage": "https://github.com/suhailkakar/Twilio-SMS-Verify-Node-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
